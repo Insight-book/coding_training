@@ -19,6 +19,7 @@
 
 ```python
 # 작성자 : 홍길동
+# 실행방법 : python jinto.py
 # 주의사항 : 기본풀이까지만 했습니다.
 
 name = raw_input("What is your name? ")
